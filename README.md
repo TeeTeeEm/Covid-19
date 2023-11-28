@@ -9,11 +9,11 @@ A comprehensive analysis and visualization of COVID-19 data using Google Colab, 
 - [Overview](#overview)
 - [Key Features](#key-features)
 - [Technologies Used](#technologies-used)
-- [Getting Started](#getting-started)
+(((- [Getting Started](#getting-started)
 - [Project Structure](#project-structure)
 - [Usage](#usage)
 - [Contributing](#contributing)
-
+)))
 ## Key Features## Key Features
 
 - **Data Analysis and Cleaning:**
